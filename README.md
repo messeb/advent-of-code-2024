@@ -26,5 +26,5 @@ Link: https://adventofcode.com/2024
 ## 🛠️ Techstack 
 - Python
 
-## Result
+## 🎯 Result
 ![Result Animation](./assets/result.gif)
